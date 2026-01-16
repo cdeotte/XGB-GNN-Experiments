@@ -1,11 +1,1 @@
-![](slides/slide1.png)
-![](slides/slide2.png)
-![](slides/slide3.png)
-![](slides/slide4.png)
-![](slides/slide5.png)
-![](slides/slide6.png)
-![](slides/slide7.png)
-![](slides/slide8.png)
-![](slides/slide9.png)
-![](slides/slide10.png)
-![](slides/slide11.png)
+Welcome to "Using GNN w/ XGB" repo. This repo demonstrates using GNN to improve an XGB model. See slides [here](../slides/readme.md) for more details.
