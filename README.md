@@ -1,1 +1,1 @@
-Welcome to "Using GNN w/ XGB" repo. This repo demonstrates using GNN to improve an XGB model. See slides [here]([../slides/readme.md](https://github.com/cdeotte/XGB-GNN-Experiments/blob/main/slides/README.md)) for more details.
+Welcome to "Using GNN w/ XGB" repo. This repo demonstrates using GNN to improve an XGB model. See slides [here](https://github.com/cdeotte/XGB-GNN-Experiments/tree/main/slides) for more details.
